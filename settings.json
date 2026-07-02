@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "megagalaxy02.minefort.com",
-    "port": 25565,
+    "ip": "MegaGalaxySMP.aternos.me:37853",
+    "port": 37853,
     "version": "",
     "try-creative": false
   },
