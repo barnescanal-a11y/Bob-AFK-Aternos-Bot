@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MegaGalaxySMP.aternos.me:37853",
+    "ip": "bowfin.aternos.host:37853",
     "port": 37853,
     "version": "",
     "try-creative": false
